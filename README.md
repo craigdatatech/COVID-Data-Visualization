@@ -8,6 +8,7 @@ When organizing the data in Tableau, "Income Group" appeared as an anamolous met
 <img width="1440" alt="Screenshot 2024-07-02 at 22 04 00" src="https://github.com/craigdatatech/COVID-Data-Visualization/assets/173221299/38973767-a647-4193-bd08-811bfb2a58be">
 
 
+
 The resultant separation of Income Group from Location to see its relation to vaccination rates, shows that those in middle income groups have higher rates of vaccination.  Although those at the highest and lowest both are the smallest.
 This brings questions forth such as access to and necessity of vaccinations, since perhaps high net worth individual have other sources of income and less need for vaccination to work, and also the perception of vaccination among social classes which could be investigated further.
 
